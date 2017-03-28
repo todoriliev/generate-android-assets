@@ -7,7 +7,7 @@ You can use Jonathan Chen's XXHDPI [Android GUI template](https://github.com/wik
 
 ## Installation
 
-1. Navigate the Sketch menu bar to `Plugins ▸ Reveal Plugins Folder...`
+1. Navigate the Sketch menu bar to `Plugins ▸ Click the gear icon on the newly oppened window and find the following ▸Reveal Plugins Folder...` 
 2. Unzip and place the `generate-android-assets` folder into the revealed plugins directory. You can rename `generate-android-assets` to `Generate Android Assets`
 3. You should find the `Generate Android Assets ▸ From XXHDPI` function under the Plugins menu in Sketch
 
